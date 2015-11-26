@@ -4,11 +4,11 @@
 body {
     margin-left: 40pt;
     margin-top: 10pt;
-    width: 760px;
+    width: 1600px;
     font-family: Merriweather, georgia, optima, palatino, verdana, arial, sans-serif;
     font-size: 14px;
     line-height: 15pt;
-    background-color: #fffefc;
+    background-color: #cc9999;
 }
 
 h1 {
@@ -29,4 +29,12 @@ h3 {
 td {
     font-family: Merriweather, georgia;
     font-size: 14px;
+}
+
+.link {
+  width: 500px;
+  margin-left: 20pt;
+  margin-right: 0pt;
+  margin-top: 10pt;
+  line-height: 15pt;
 }

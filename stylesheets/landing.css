@@ -32,13 +32,13 @@ td {
     font-size: 14px;
 }
 
-.link {
-  width: 500px;
-  margin-left: 20pt;
-  margin-right: 0pt;
-  margin-top: 10pt;
-  line-height: 15pt;
-}
+/* .link { */
+/*   width: 500px; */
+/*   margin-left: 20pt; */
+/*   margin-right: 0pt; */
+/*   margin-top: 10pt; */
+/*   line-height: 15pt; */
+/* } */
 
 .header {
   margin-top: 20px;

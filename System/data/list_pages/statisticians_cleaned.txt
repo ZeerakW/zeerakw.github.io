@@ -1,0 +1,622 @@
+Odd Aalen
+Edith Abbott
+Robert P. Abelson
+Moses Abramovitz
+Gottfried Achenwall
+Abraham Manie Adelstein
+Riaz Ahsan
+John Aitchison
+Alexander Aitken
+Hirotsugu Akaike
+Mir Masoom Ali
+R. G. D. Allen
+David B. Allison
+Doug Altman
+Takeshi Amemiya
+Oskar Anderson
+Theodore Wilbur Anderson
+Francis Anscombe
+Luc Anselin
+Peter Armitage
+Kenneth Arrow
+Anthony Ashley-Cooper, 7th Earl of Shaftesbury
+Oscar Phelps Austin
+Leonard Porter Ayres
+Raghu Raj Bahadur
+David Balding
+George Alfred Barnard
+William A. Barnett
+Julius Bartels
+M. S. Bartlett
+Geoff Bascand
+Debabrata Basu
+Laurence Baxter
+Thomas Bayes
+Calvin Beale
+Ernst Behm
+Bernard Benjamin
+Jean-Paul Benzécri
+James Berger (statistician)
+Joseph Berkson
+José-Miguel Bernardo
+Don Berry (statistician)
+Alfred M. Best
+William Beveridge
+B. R. Bhat
+P. N. Mari Bhat
+U. Narayan Bhat
+Irénée-Jules Bienaymé
+Christopher Bingham
+Allan Birnbaum
+Thomas John Bisika
+David Blackwell
+Chester Ittner Bliss
+Maurice Block
+David E. Bloom
+Luigi Bodio
+Walter Bodmer
+Carlo Emilio Bonferroni
+Charles Booth (philanthropist)
+John Boreham
+Ladislaus Bortkiewicz
+R. C. Bose
+Roelof Botha
+Léon Bottou
+Arthur Lyon Bowley
+George E. P. Box
+Phelim Boyle
+Ion Ionescu de la Brad
+Thomas Brassey, 1st Earl Brassey
+Leo Breiman
+Norman Breslow
+Steve Brooks (statistician)
+Lawrence D. Brown
+Warren Randolph Burgess
+Józef Buzek
+T. Tony Cai
+James Caird (agricultural writer)
+John Caldwell (demographer)
+Lucien Le Cam
+Harry Campion
+Emmanuel Candès
+Harry C. Carver
+Ian Castles
+M. C. Chakrabarti
+George Chalmers (antiquarian)
+John Chambers (statistician)
+D. G. Champernowne
+Enid Charles
+Carl Charlier
+Pafnuty Chebyshev
+Louis Chen Hsiao Yun
+Herman Chernoff
+Alexey Chervonenkis
+Yuan-Shih Chow
+Alexander Alexandrovich Chuprov
+Alexander Ivanovich Chuprov
+Colin Clark (economist)
+Richard W. B. Clarke
+David Clayton
+Ansley J. Coale
+Robert H. Coats
+William Gemmell Cochran
+Arthur Cockfield, Baron Cockfield
+Timothy Augustine Coghlan
+Jacob Cohen (statistician)
+Joel E. Cohen
+Ronald Coifman
+David Coleman (academic)
+Len Cook
+Gauss Moutinho Cordeiro
+Jerome Cornfield
+Leonard Courtney, 1st Baron Courtney of Penwith
+Thomas M. Cover
+David Cox (statistician)
+Gertrude Mary Cox
+Richard Threlkeld Cox
+Harald Cramér
+August Friedrich Wilhelm Crome
+James Crosby (British businessman)
+Sedley Cudmore
+Stella Cunliffe
+Jan Czekanowski
+Henry Daniels
+David van Dantzig
+George Dantzig
+John Darwin (statistician)
+Florence Nightingale David
+Griffith Davies
+Kingsley Davis
+Philip Dawid
+Christopher Daykin
+Morris H. DeGroot
+W. Edwards Deming
+Arthur P. Dempster
+Alain Desrosières
+Davis Rich Dewey
+Persi Diaconis
+Sir Charles Dilke, 2nd Baronet
+Harold F. Dodge
+James Dodson
+Richard Doll
+Peter Donnelly
+David Donoho
+Joseph Leo Doob
+Louis Israel Dublin
+Frank Duckworth
+Richard M. Dudley
+David F. Duncan
+Otis Dudley Duncan
+Halbert L. Dunn
+Karen Dunnell
+Charles Dunnett
+James Durbin
+Aryeh Dvoretzky
+Brian Easton (economist)
+A. Ross Eckler
+A. Ross Eckler, Jr.
+Sir Frederick Eden, 2nd Baronet
+Francis Ysidro Edgeworth
+A. W. F. Edwards
+Bradley Efron
+Churchill Eisenhart
+Ethel M. Elderton
+William Palin Elderton
+Robert C. Elston
+Ernst Engel
+Robert F. Engle
+Agner Krarup Erlang
+John Erritt
+Mordecai Ezekiel
+File:Biologist and statistician Ronald Fisher.jpg
+Johann Ernst Fabri
+Johannes Fallati
+Jianqing Fan
+William Farr
+Thomas Farrer, 1st Baron Farrer
+Gustav Fechner
+Ivan Fellegi
+William Feller
+Xavier Fernique
+Stephen Fienberg
+Bruno de Finetti
+John Finlaison (Finlayson)
+D. J. Finney
+Irving Fisher
+Ronald Fisher
+William Fleetwood
+Joseph L. Fleiss
+A. William Flux
+David Foot (economist)
+Henry Fowler, 1st Viscount Wolverhampton
+John Fox (statistician)
+Lester Frankel
+Stefano Franscini
+David A. Freedman (statistician)
+Ronald Freedman
+Milton Friedman
+Arnoldo Frigessi
+Anil Kumar Gain
+A. Ronald Gallant
+George Gallup
+Francis Galton
+Michel Gauquelin
+Roy C. Geary
+Seymour Geisser
+Donald Geman
+Jayanta Kumar Ghosh
+Eric Ghysels
+Lyndhurst Giblin
+Robert Giffen
+Richard D. Gill
+Corrado Gini
+David Glass (sociologist)
+Gene V. Glass
+Samuel Goldman
+Harvey Goldstein
+Benjamin Gompertz
+I. J. Good
+Phillip Good
+James Goodnight
+George Goschen, 1st Viscount Goschen
+William Sealy Gosset
+Clive Granger
+John Graunt
+Mary W. Gray
+Eugene Grebenik
+Peter Green (statistician)
+Sander Greenland
+Major Greenwood
+Robert Griffiths (mathematician)
+Zvi Griliches
+Geoffrey Grimmett
+André-Michel Guerry
+Emil Julius Gumbel
+Louis Guttman
+William Guy
+Pierre Gy
+Steven Haberman
+Jaroslav Hájek
+John Hajnal
+Anders Hald
+Trevor Hastie
+Peter Gavin Hall
+Paul Halmos
+Lord George Hamilton
+David Hand (statistician)
+Garrett Hardin
+Ted Harris (mathematician)
+Herman Otto Hartley
+Henry Heylyn Hayter
+Michael Healy (statistician)
+Larry V. Hedges
+Jotun Hein
+Friedrich Robert Helmert
+Charles Roy Henderson
+Chris Heyde
+Jack Hibbert
+James C. Hickman
+Joseph Hilbe
+Austin Bradford Hill
+Joseph Adna Hill
+David V. Hinkley
+Nils Lid Hjort
+Wassily Hoeffding
+Jan Hoem
+Myles Hollander
+Herman Hollerith
+Chris Holmes (mathematician)
+Tim Holt (statistician)
+Gabriel Gabrielsen Holtsmark
+Lancelot Hogben
+Reginald Hawthorn Hooker
+Harold Hotelling
+Darrell Huff
+William Wilson Hunter
+William Hunter (statistician)
+Col Hutchinson
+V. S. Huzurbazar
+Ross Ihaka
+Ronald L. Iman
+Joseph Oscar Irwin
+Kaoru Ishikawa
+Leon Isserlis
+Oswald Jacoby
+Thomas Jaffrey
+Bill James
+Edwin Thompson Jaynes
+William H. Jefferys
+Harold Jeffreys
+E. Morton Jellinek
+Gwilym Jenkins
+William Stanley Jevons
+Alexander Jobson
+Norman Lloyd Johnson
+Robert Mackenzie Johnston
+Edward Jones (statistician)
+Samuel Jones-Loyd, 1st Baron Overstone
+Michael I. Jordan
+Karl Gustav Jöreskog
+Esprit Jouffret
+Joseph M. Juran
+James Jurin
+Mark Kac
+Oscar Kempthorne
+David George Kendall
+Maurice Kendall
+Joseph C. G. Kennedy
+Ravindra Khattree
+Estate V. Khmaladze
+Jack Kiefer (mathematician)
+Anders Nicolai Kiær
+Gregory King
+Willford I. King
+John Kingman
+Leslie Kish
+George Handley Knibbs
+Bogoljub Kočović
+Andrey Kolmogorov
+Bernard Koopman
+Phillip Kott
+Dan Krewski
+William C. Krumbein
+Joseph Kruskal
+William Kruskal
+André Krüger
+Robert René Kuczynski
+Eugene M. Kulischer
+Solomon Kullback
+Gunnar Kulldorff
+Hans-Rudolf Künsch
+Ernest Kurnow
+Steve Kuzmicich
+Simon Kuznets
+Ivo Lah
+Nan Laird
+Peter Laslett
+Étienne Laspeyres
+Mark Lathrop
+John Law (economist)
+Greg Lawler
+Charles Lawrence (mathematician)
+Erich Leo Lehmann
+Charles Lemon
+Wassily Leontief
+Boris Levit
+Tony Lewis (mathematician)
+Wilhelm Lexis
+C. C. Li
+David X. Li
+Rensis Likert
+Hubert Lilliefors
+Jarl Waldemar Lindeberg
+Dennis Lindley
+Anders Lindstedt
+Frederick B. Lindstrom
+Yuri Linnik
+Jun S. Liu
+Phillip Longman
+Frederic M. Lord
+Max O. Lorenz
+Alfred J. Lotka
+Michel Loève
+John Lubbock, 1st Baron Avebury
+Filip Lundberg
+Frank Luntz
+John F. MacGregor
+Prasanta Chandra Mahalanobis
+Khandkar Manwar Hossain
+Bernard Mallet
+Thomas Robert Malthus
+Renato Mannheimer
+Nathan Mantel
+Kantilal Mardia
+Maryse Marpsat
+Donald Marquardt
+Frederick Marquis, 1st Earl of Woolton
+Jacob Marschak
+Herbert Marshall (statistician)
+Sir Richard Martin, 1st Baronet, of Overbury Court
+Kenneth Massey
+Motosaburo Masuyama
+John Mauchly
+Emory McClintock
+Paul McCrossan
+Peter McCullagh
+Colin McEvedy
+Anderson Gray McKendrick
+Bill McLennan
+Quinn McNemar
+Gilean McVean
+Royal Meeker
+Paul Meier (statistician)
+Xiao-Li Meng
+Gheorghe Mihoc
+George A. Milliken
+Wendell Milliman
+Joshua Milne
+Richard Monckton Milnes, 1st Baron Houghton
+Wesley Clair Mitchell
+Warren Mitofsky
+Jakob Mohn
+Abraham de Moivre
+Edward C. Molina
+Henry Ludwell Moore
+Pat Moran (statistician)
+Edward Rowe Mores
+William Morgan (scientist)
+Carl Morris (statistician)
+Winifred J. Morrison
+Claus Moser, Baron Moser
+Frederick Mosteller
+Frederic J. Mouat
+José Enrique Moyal
+Susan Murphy
+Vijayan Nair
+Guy Nason
+Charles P. Neill
+John Nelder
+Cecil J. Nesbitt
+William Newmarch
+Jerzy Neyman
+Florence Nightingale
+Partha Niyogi
+Gottfried E. Noether
+Carl O. Nordling
+Frank W. Notestein
+William Fielding Ogburn
+S. Jay Olshansky
+Octav Onicescu
+William Onslow, 4th Earl of Onslow
+Mollie Orshansky
+George Paine (registrar)
+John Pakington, 1st Baron Hampton
+John Panaretos
+Emanuel Parzen
+Raymond Pearl
+Egon Pearson
+Karl Pearson
+Charles Sanders Peirce
+Basilio de Bragança Pereira
+Julian Peto
+Richard Peto
+William Petty
+Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne
+Jan Piekałkiewicz
+K. C. Sreedharan Pillai
+Vijayan K Pillai
+Brian Pink
+E. J. G. Pitman
+Robin Plackett
+William Playfair
+Elżbieta Pleszczyńska
+Stuart Pocock
+Henry O. Pollak
+Nicholas Polson
+Samuel H. Preston
+Richard Price
+Maurice Priestley
+Maurice Princet
+Reginald Punnett
+George Pólya
+Adolphe Quetelet
+Adrian Raftery
+D. Raghavarao
+Howard Raiffa
+Stefan Ralescu
+Calyampudi Radhakrishna Rao
+Georg Rasch
+Frank Redington
+Nancy Reid
+Olav Reiersøl
+E. C. Rhodes
+Thomas Spring Rice, 1st Baron Monteagle of Brandon
+Sylvia Richardson
+John Rickman
+Brian D. Ripley
+Herbert Robbins
+Gareth Roberts (statistician)
+Harry V. Roberts
+Stuart A. Robertson
+Jean-Marie Robine
+James Robins
+Claude E. Robinson
+Jeffrey S. Rosenthal
+Bimal Kumar Roy
+S. N. Roy
+Donald Rubin
+I. M. Rubinow
+Reuven Rubinstein
+Steven Ruggles
+John Russell, 1st Earl Russell
+Dudley Ryder, 2nd Earl of Harrowby
+Jeff Sagarin
+Jahar Saha
+Nicolas-François Dupré de Saint-Maur
+David Salsburg
+Herbert Samuel, 1st Viscount Samuel
+William Sanders (statistician)
+Leonard Jimmie Savage
+Shlomo Sawilowsky
+Henry Scheffé
+Robert Schlaifer
+Henry Schultz
+Arthur Schuster
+Tore Schweder
+Elizabeth Scott (mathematician)
+Hugh Hedley Scurfield
+Shayle R. Searle
+Paola Sebastiani
+Pyotr Semyonov-Tyan-Shansky
+B. V. Shah
+Lloyd Shapley
+George Shaw-Lefevre, 1st Baron Eversley
+Lawrence Shepp
+William Fleetwood Sheppard
+Walter A. Shewhart
+S. S. Shrikhande
+Herbert Sichel
+Sidney Siegel
+Nate Silver
+Bernard Silverman
+François Simiand
+Leslie Earl Simon
+Sir John Sinclair, 1st Baronet
+Ibrahim Sirkeci
+Eugen Slutsky
+Adrian Smith (academic)
+Cedric Smith (statistician)
+Walter L. Smith
+George W. Snedecor
+Carl Snyder
+Robert R. Sokal
+Charles Spearman
+Terry Speed
+Joseph J. Spengler
+David Spiegelhalter
+J. N. Srivastava
+Josiah Stamp, 1st Baron Stamp
+Julian C. Stanley Jr.
+Edward Stanley, 15th Earl of Derby
+J. Michael Steele
+Johan Frederik Steffensen
+Charles Stein (statistician)
+Matthew Stephens (statistician)
+Stephen Stigler
+Richard Stone
+Samuel A. Stouffer
+Dietrich Stoyan
+Johann Peter Süssmilch
+William Henry Sykes
+James Joseph Sylvester
+Edward Szturm de Sztrem
+Shyamaprasad Mukherjee
+Genichi Taguchi
+Michael Teitelbaum
+Lester G. Telser
+Thorvald N. Thiele
+Robert L. Thorndike
+John Wingate Thornton
+Willard Thorp
+Louis Leon Thurstone
+Robert Tibshirani
+Leonard Henry Caleb Tippett
+James Tobin
+Emmanuel Todd
+Howell Tong
+Dennis Trewin
+Stanisław Trybuła
+Edward Tufte
+John Tukey
+Jessica Utts
+Stanislaus S. Uyanto
+Vladimir Vapnik
+James Vaupel
+Giovanni Villani
+Jan Visman
+Grace Wahba
+Abraham Wald
+Francis Amasa Walker
+Gilbert Walker
+Chris Wallace (computer scientist)
+W. Allen Wallis
+Derek Wanless
+Geoffrey Watson
+Robert Wedderburn (statistician)
+Edward Wegman
+Waloddi Weibull
+Arnold Weinstock
+Walter Frank Raphael Weldon
+Thomas A. Welton
+Charles Wentworth-Fitzwilliam, 5th Earl Fitzwilliam
+Harald Ludvig Westergaard
+Donald J. Wheeler
+Peter Whittle
+Frank Wilcoxon
+Martin Wilk
+Leland Wilkinson
+Samuel S. Wilks
+Walter Francis Willcox
+Edwin Bidwell Wilson
+Harold Wilson
+John Wishart (statistician)
+Herman Wold
+Jacob Wolfowitz
+George Henry Wood (statistician)
+Wesley S. B. Woolhouse
+Holbrook Working
+Carroll D. Wright
+Elizur Wright
+Sewall Wright
+E. A. Wrigley
+C.F. Jeff Wu
+Frank Yates
+Allyn Abbott Young
+Arthur Young (writer)
+Hilton Young, 1st Baron Kennet
+Udny Yule
+Arif Zaman
+Victor Zarnowitz
+Arnold Zellner
+Zhang Zhaohuan
+George Kingsley Zipf

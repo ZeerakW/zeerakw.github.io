@@ -1,0 +1,640 @@
+statistician
+statistics
+probability
+machine learning
+actuary|actuaries
+demography|demographers
+Odd Aalen|Aalen, Odd Olai
+Edith Abbott|Abbott, Edith
+Robert P. Abelson|Abelson, Robert P.
+Moses Abramovitz|Abramovitz, Moses
+Gottfried Achenwall|Achenwall, Gottfried
+Abraham Manie Adelstein|Adelstein, Abraham Manie
+Riaz Ahsan|Ahsan, Riaz
+John Aitchison|Aitchison, John
+Alexander Aitken|Aitken, Alexander
+Hirotsugu Akaike|Akaike, Hirotsugu
+Mir Masoom Ali|Ali, Mir Masoom
+R. G. D. Allen|Allen, R. G. D.
+David B. Allison|Allison, David B.
+Doug Altman|Altman, Doug
+Takeshi Amemiya|Amemiya, Takeshi
+Oskar Anderson|Anderson, Oskar
+Theodore Wilbur Anderson|Anderson, Theodore Wilbur
+Francis Anscombe|Anscombe, Francis
+Luc Anselin|Anselin, Luc
+Peter Armitage|Armitage, Peter
+Kenneth Arrow|Arrow, Kenneth
+Anthony Ashley-Cooper, 7th Earl of Shaftesbury|Ashley-Cooper, Anthony
+Oscar Phelps Austin|Austin, Oscar Phelps
+Leonard Porter Ayres|Ayres, Leonard Porter
+Raghu Raj Bahadur|Bahadur, Raghu Raj
+David Balding|Balding, David
+George Alfred Barnard|Barnard, George Alfred
+William A. Barnett|Barnett, William A.
+Julius Bartels|Bartels, Julius
+M. S. Bartlett|Bartlett, M. S.
+Geoff Bascand|Bascand, Geoff
+Debabrata Basu|Basu, Debabrata
+Laurence Baxter|Baxter, Laurence
+Thomas Bayes|Bayes, Thomas
+Calvin Beale|Beale, Calvin
+Ernst Behm|Behm, Ernst
+Bernard Benjamin|Benjamin, Bernard
+Jean-Paul Benzécri|Benzécri, Jean-Paul
+James Berger (statistician)|Berger, James
+Joseph Berkson|Berkson, Joseph
+José-Miguel Bernardo|Bernardo, José-Miguel
+Don Berry (statistician)|Berry, Don
+Alfred M. Best|Best, Alfred M.
+William Beveridge|Beveridge, William
+B. R. Bhat|Bhat, B. R.
+P. N. Mari Bhat|Bhat, P. N. Mari
+U. Narayan Bhat|Bhat, U. Narayan
+Irénée-Jules Bienaymé|Bienaymé, Irénée-Jules
+Christopher Bingham|Bingham, Christopher
+Allan Birnbaum|Birnbaum, Allan
+Thomas John Bisika|Bisika, Thomas John
+David Blackwell|Blackwell, David
+Chester Ittner Bliss|Bliss, Chester Ittner
+Maurice Block|Block, Maurice
+David E. Bloom|Bloom, David E.
+Luigi Bodio|Bodio, Luigi
+Walter Bodmer|Bodmer, Walter
+Carlo Emilio Bonferroni|Bonferroni, Carlo Emilio
+Charles Booth (philanthropist)|Booth, Charles
+John Boreham|Boreham, John
+Ladislaus Bortkiewicz|Bortkiewicz, Ladislaus
+R. C. Bose|Bose, R. C.
+Roelof Botha|Botha, Roelof
+Léon Bottou|Bottou, Léon
+Arthur Lyon Bowley|Bowley, Arthur Lyon
+George E. P. Box|Box, George E. P.
+Phelim Boyle|Boyle, Phelim
+Ion Ionescu de la Brad|Brad, Ion Ionescu de la
+Thomas Brassey, 1st Earl Brassey|Brassey, Thomas
+Leo Breiman|Breiman, Leo
+Norman Breslow|Breslow, Norman
+Steve Brooks (statistician)|Brooks, Steve
+Lawrence D. Brown|Brown, Lawrence D.
+Warren Randolph Burgess|Burgess, Warren Randolph
+Józef Buzek|Buzek, Józef
+T. Tony Cai|Cai, T. Tony
+James Caird (agricultural writer)|Caird, James
+John Caldwell (demographer)|Caldwell, John
+Lucien Le Cam|Cam, Lucien Le
+Harry Campion|Campion, Harry
+Emmanuel Candès|Candès, Emmanuel
+Harry C. Carver|Carver, Harry C.
+Ian Castles|Castles, Ian
+M. C. Chakrabarti|Chakrabarti, M. C.
+George Chalmers (antiquarian)|Chalmers, George
+John Chambers (statistician)|John M. Chambers
+D. G. Champernowne|Champernowne, D. G.
+Enid Charles|Charles, Enid
+Carl Charlier|Charlier, Carl
+Pafnuty Chebyshev|Chebyshev, Pafnuty
+Louis Chen Hsiao Yun|Chen, Louis Hsiao Yun
+Herman Chernoff|Chernoff, Herman
+Alexey Chervonenkis|Chervonenkis, Alexey
+Yuan-Shih Chow|Chow, Yuan-Shih
+Alexander Alexandrovich Chuprov|Chuprov, Alexander Alexandrovich
+Alexander Ivanovich Chuprov|Chuprov, Alexander Ivanovich
+Colin Clark (economist)|Clark, Colin
+Richard W. B. Clarke|Clarke, Richard W. B.
+David Clayton|Clayton, David
+Ansley J. Coale|Coale, Ansley J.
+Robert H. Coats|Coats, Robert H.
+William Gemmell Cochran|Cochran, William Gemmell
+Arthur Cockfield, Baron Cockfield|Cockfield, Arthur
+Timothy Augustine Coghlan|Coghlan, Timothy Augustine
+Jacob Cohen (statistician)|Cohen, Jacob
+Joel E. Cohen|Cohen, Joel E.
+Ronald Coifman|Coifman, Ronald
+David Coleman (academic)|Coleman, David
+Len Cook|Cook, Len
+Gauss Moutinho Cordeiro|Cordeiro, Gauss Moutinho
+Jerome Cornfield|Cornfield, Jerome
+Leonard Courtney, 1st Baron Courtney of Penwith|Courtney, Leonard
+Thomas M. Cover|Cover, Thomas M.
+David Cox (statistician)|Cox, David
+Gertrude Mary Cox|Cox, Gertrude Mary
+Richard Threlkeld Cox|Cox, Richard Threlkeld
+Harald Cramér|Cramér, Harald
+August Friedrich Wilhelm Crome|Crome, August Friedrich Wilhelm
+James Crosby (British businessman)|Crosby, James
+Sedley Cudmore|Cudmore, Sedley
+Stella Cunliffe|Cunliffe, Stella
+Jan Czekanowski|Czekanowski, Jan
+Henry Daniels|Daniels, Henry
+David van Dantzig|Dantzig, David van
+George Dantzig|Dantzig, George
+John Darwin (statistician)|Darwin, John
+Florence Nightingale David|David, Florence Nightingale
+Griffith Davies|Davies, Griffith
+Kingsley Davis|Davis, Kingsley
+Philip Dawid|Dawid, Philip
+Christopher Daykin|Daykin, Christopher
+Morris H. DeGroot|DeGroot, Morris H.
+W. Edwards Deming|Deming, W. Edwards
+Arthur P. Dempster|Dempster, Arthur P.
+Alain Desrosières|Desrosières, Alain
+Davis Rich Dewey|Dewey, Davis Rich
+Persi Diaconis|Diaconis, Persi
+Sir Charles Dilke, 2nd Baronet|Dilke, Sir Charles
+Harold F. Dodge|Dodge, Harold F.
+James Dodson|Dodson, James
+Richard Doll|Doll, Sir Richard
+Peter Donnelly|Donnelly, Peter
+David Donoho|Donoho, David
+Joseph Leo Doob|Doob, Joseph Leo
+Louis Israel Dublin|Dublin, Louis Israel
+Frank Duckworth|Duckworth, Frank
+Richard M. Dudley|Dudley, Richard M.
+David F. Duncan|Duncan, David F.
+Otis Dudley Duncan|Duncan, Otis Dudley
+Halbert L. Dunn|Dunn, Halbert L.
+Karen Dunnell|Dunnell, Karen
+Charles Dunnett|Dunnett, Charles
+James Durbin|Durbin, James
+Aryeh Dvoretzky|Dvoretzky, Aryeh
+Brian Easton (economist)|Easton, Brian
+A. Ross Eckler|Eckler, A. Ross
+A. Ross Eckler, Jr.|Eckler, A. Ross Jr.
+Sir Frederick Eden, 2nd Baronet|Eden, Sir Frederick
+Francis Ysidro Edgeworth|Edgeworth, Francis Ysidro
+A. W. F. Edwards|Edwards, A. W. F.
+Bradley Efron|Efron, Bradley
+Churchill Eisenhart|Eisenhart, Churchill
+Ethel M. Elderton|Elderton, Ethel M.
+William Palin Elderton|Elderton, William Palin
+Robert C. Elston|Elston, Robert C.
+Ernst Engel|Engel, Ernst
+Robert F. Engle|Engle, Robert F.
+Agner Krarup Erlang|Erlang, A. K.
+John Erritt|Erritt, John
+Mordecai Ezekiel|Ezekiel, Mordecai
+File:Biologist and statistician Ronald Fisher.jpg|thumb|right|200px|Biologist and statistician Ronald Fisher
+Johann Ernst Fabri|Fabri, Johann Ernst
+Johannes Fallati|Fallati, Johannes
+Jianqing Fan|Fan, Jianqing
+William Farr|Farr, William
+Thomas Farrer, 1st Baron Farrer|Farrer, Thomas
+Gustav Fechner|Fechner, Gustav
+Ivan Fellegi|Fellegi, Ivan
+William Feller|Feller, William
+Xavier Fernique|Fernique, Xavier
+Stephen Fienberg|Fienberg, Stephen
+Bruno de Finetti|Finetti, Bruno de
+John Finlaison (Finlayson)|Finlaison, John
+D. J. Finney|Finney, D. J.
+Irving Fisher|Fisher, Irving
+Ronald Fisher|Fisher, Sir Ronald A.
+William Fleetwood|Fleetwood, William
+Joseph L. Fleiss|Fleiss, Joseph L.
+A. William Flux|Flux, A. William
+David Foot (economist)|Foot, David
+Henry Fowler, 1st Viscount Wolverhampton|Fowler, Henry
+John Fox (statistician)|Fox, John
+Lester Frankel|Frankel, Lester
+Stefano Franscini|Franscini, Stefano
+David A. Freedman (statistician)|Freedman, David A.
+Ronald Freedman|Freedman, Ronald
+Milton Friedman|Friedman, Milton
+Arnoldo Frigessi|Frigessi, Arnoldo di Rattalma
+Anil Kumar Gain|Gain, Anil Kumar
+A. Ronald Gallant|Gallant, A. Ronald
+George Gallup|Gallup, George
+Francis Galton|Galton, Francis
+Michel Gauquelin|Gauquelin, Michel
+Roy C. Geary|Geary, Roy C.
+Seymour Geisser|Geisser, Seymour
+Donald Geman|Geman, Donald
+Jayanta Kumar Ghosh|Ghosh, Jayanta Kumar
+Eric Ghysels|Ghysels, Eric
+Lyndhurst Giblin|Giblin, Lyndhurst
+Robert Giffen|Giffen, Robert
+Richard D. Gill|Gill, Richard D.
+Corrado Gini|Gini, Corrado
+David Glass (sociologist)|Glass, David
+Gene V. Glass|Glass, Gene V.
+Samuel Goldman|Goldman, Samuel
+Harvey Goldstein|Goldstein, Harvey
+Benjamin Gompertz|Gompertz, Benjamin
+I. J. Good|Good, I. J.
+Phillip Good|Good, Phillip
+James Goodnight|Goodnight, James
+George Goschen, 1st Viscount Goschen|Goschen, George
+William Sealy Gosset|Gosset, William Sealy
+Clive Granger|Granger, Clive
+John Graunt|Graunt, John
+Mary W. Gray|Gray, Mary W.
+Eugene Grebenik|Grebenik, Eugene
+Peter Green (statistician)|Green, Peter
+Sander Greenland|Greenland, Sander
+Major Greenwood|Greenwood, Major
+Robert Griffiths (mathematician)|Griffiths, Robert
+Zvi Griliches|Griliches, Zvi
+Geoffrey Grimmett|Grimmett, Geoffrey
+André-Michel Guerry|Guerry, André-Michel
+Emil Julius Gumbel|Gumbel, Emil Julius
+Louis Guttman|Guttman, Louis
+William Guy|Guy, William
+Pierre Gy|Gy, Pierre
+Steven Haberman|Haberman, Steven
+Jaroslav Hájek|Hájek, Jaroslav
+John Hajnal|Hajnal, John
+Anders Hald|Hald, Anders
+Trevor Hastie|Hastie, Trevor
+Peter Gavin Hall|Hall, Peter Gavin
+Paul Halmos|Halmos, Paul
+Lord George Hamilton|Hamilton, Lord George
+David Hand (statistician)|Hand, David
+Garrett Hardin|Hardin, Garrett
+Ted Harris (mathematician)|Harris, Ted
+Herman Otto Hartley|Hartley, Herman Otto
+Henry Heylyn Hayter|Hayter, Henry Heylyn
+Michael Healy (statistician)|Healy, Michael
+Larry V. Hedges|Hedges, Larry V.
+Jotun Hein|Hein, Jotun
+Friedrich Robert Helmert|Helmert, Friedrich Robert
+Charles Roy Henderson|Henderson, Charles Roy
+Chris Heyde|Heyde, Chris
+Jack Hibbert|Hibbert, Sir Jack
+James C. Hickman|Hickman, James C.
+Joseph Hilbe|Hilbe, Joseph
+Austin Bradford Hill|Hill, Austin Bradford
+Joseph Adna Hill|Hill, Joseph Adna
+David V. Hinkley|Hinkley, David V.
+Nils Lid Hjort|Hjort, Nils Lid
+Wassily Hoeffding|Hoeffding, Wassily
+Jan Hoem|Hoem, Jan
+Myles Hollander|Hollander, Myles
+Herman Hollerith|Hollerith, Herman
+Chris Holmes (mathematician)|Holmes, Chris
+Tim Holt (statistician)|Holt, Tim
+Gabriel Gabrielsen Holtsmark|Holtsmark, Gabriel Gabrielsen
+Lancelot Hogben|Hogben, Lancelot
+Reginald Hawthorn Hooker|Hooker, Reginald Hawthorn
+Harold Hotelling|Hotelling, Harold
+Darrell Huff|Huff, Darrell
+William Wilson Hunter|Hunter, Sir William Wilson
+William Hunter (statistician)|Hunter, William
+Col Hutchinson|Hutchinson, Col
+V. S. Huzurbazar|Huzurbazar, V. S.
+Ross Ihaka|Ihaka, Ross
+Ronald L. Iman|Iman, Ronald L.
+Joseph Oscar Irwin|Irwin, Joseph Oscar
+Kaoru Ishikawa|Ishikawa, Kaoru
+Leon Isserlis|Isserlis, Leon
+Oswald Jacoby|Jacoby, Oswald
+Thomas Jaffrey|Jaffrey, Thomas
+Bill James|James, Bill
+Edwin Thompson Jaynes|Jaynes, Edwin Thompson
+William H. Jefferys|Jefferys, William H.
+Harold Jeffreys|Jeffreys, Harold
+E. Morton Jellinek|Jellinek, E. Morton
+Gwilym Jenkins|Jenkins, Gwilym
+William Stanley Jevons|Jevons, William Stanley
+Alexander Jobson|Jobson, Alexander
+Norman Lloyd Johnson|Johnson, Norman Lloyd
+Robert Mackenzie Johnston|Johnston, Robert Mackenzie
+Edward Jones (statistician)|Jones, Edward
+Samuel Jones-Loyd, 1st Baron Overstone|Jones-Loyd, Samuel
+Michael I. Jordan|Jordan, Michael I.
+Karl Gustav Jöreskog|Jöreskog, Karl Gustav
+Esprit Jouffret|Jouffret, Esprit
+Joseph M. Juran|Juran, Joseph M.
+James Jurin|Jurin, James
+Mark Kac|Kac, Mark
+Oscar Kempthorne|Kempthorne, Oscar
+David George Kendall|Kendall, David George
+Maurice Kendall|Kendall, Sir Maurice
+Joseph C. G. Kennedy|Kennedy, Joseph C. G.
+Ravindra Khattree|Khattree, Ravindra
+Estate V. Khmaladze|Khmaladze, Estate V.
+Jack Kiefer (mathematician)|Kiefer, Jack
+Anders Nicolai Kiær|Kiær, Anders Nicolai
+Gregory King|King, Gregory
+Willford I. King|King, Willford I.
+John Kingman|Kingman, John
+Leslie Kish|Kish, Leslie
+George Handley Knibbs|Knibbs, George Handley
+Bogoljub Kočović|Kočović, Bogoljub
+Andrey Kolmogorov|Kolmogorov, Andrey Nikolaevich
+Bernard Koopman|Koopman, Bernard
+Phillip Kott|Kott, Phillip
+Dan Krewski|Krewski, Dan
+William C. Krumbein|Krumbein, William C.
+Joseph Kruskal|Kruskal, Joseph
+William Kruskal|Kruskal, William
+André Krüger|Krüger, André
+Robert René Kuczynski|Kuczynski, Robert René
+Eugene M. Kulischer|Kulischer, Eugene M.
+Solomon Kullback|Kullback, Solomon
+Gunnar Kulldorff|Kulldorff, Gunnar
+Hans-Rudolf Künsch|Künsch, Hans-Rudolf
+Ernest Kurnow|Kurnow, Ernest
+Steve Kuzmicich|Kuzmicich, Steve
+Simon Kuznets|Kuznets, Simon
+Ivo Lah|Lah, Ivo
+Nan Laird|Laird, Nan
+Peter Laslett|Laslett, Peter
+Étienne Laspeyres|Laspeyres, Étienne
+Mark Lathrop|Lathrop, Mark
+John Law (economist)|Law, John
+Greg Lawler|Lawler, Gregory Francis
+Charles Lawrence (mathematician)|Lawrence, Charles
+Erich Leo Lehmann|Lehmann, Erich Leo
+Charles Lemon|Lemon, Charles
+Wassily Leontief|Leontief, Wassily
+Boris Levit|Levit, Boris
+Tony Lewis (mathematician)|Lewis, Tony
+Wilhelm Lexis|Lexis, Wilhelm
+C. C. Li|Li, C. C.
+David X. Li|Li, David X.
+Rensis Likert|Likert, Rensis
+Hubert Lilliefors|Lilliefors, Hubert
+Jarl Waldemar Lindeberg|Lindeberg, Jarl Waldemar
+Dennis Lindley|Lindley, Dennis V.
+Anders Lindstedt|Lindstedt, Anders
+Frederick B. Lindstrom|Lindstrom, Frederick B.
+Yuri Linnik|Linnik, Yuri
+Jun S. Liu|Liu, Jun
+Phillip Longman|Longman, Phillip
+Frederic M. Lord|Lord, Frederic M.
+Max O. Lorenz|Lorenz, Max O.
+Alfred J. Lotka|Lotka, Alfred J.
+Michel Loève|Loève, Michel
+John Lubbock, 1st Baron Avebury|Lubbock, John
+Filip Lundberg|Lundberg, Filip
+Frank Luntz|Luntz, Frank
+John F. MacGregor|MacGregor, John F.
+Prasanta Chandra Mahalanobis|Mahalanobis, Prasanta Chandra
+Khandkar Manwar Hossain|Manwar, Khandakar Hossain
+Bernard Mallet|Mallet, Bernard
+Thomas Robert Malthus|Malthus, Thomas Robert
+Renato Mannheimer|Mannheimer, Renato
+Nathan Mantel|Mantel, Nathan
+Kantilal Mardia|Mardia, Kantilal
+Maryse Marpsat|Marpsat, Maryse
+Donald Marquardt|Marquardt, Donald
+Frederick Marquis, 1st Earl of Woolton|Marquis, Frederick
+Jacob Marschak|Marschak, Jacob
+Herbert Marshall (statistician)|Marshall, Herbert
+Sir Richard Martin, 1st Baronet, of Overbury Court|Martin, Sir Richard
+Kenneth Massey|Massey, Kenneth
+Motosaburo Masuyama|Masuyama, Motosaburo
+John Mauchly|Mauchly, John
+Emory McClintock|McClintock, Emory
+Paul McCrossan|McCrossan, Paul
+Peter McCullagh|McCullagh, Peter
+Colin McEvedy|McEvedy, Colin
+Anderson Gray McKendrick|McKendrick, Anderson Gray
+Bill McLennan|McLennan, Bill
+Quinn McNemar|McNemar, Quinn
+Gilean McVean|McVean, Gilean
+Royal Meeker|Meeker, Royal
+Paul Meier (statistician)|Meier, Paul
+Xiao-Li Meng|Meng, Xiao-Li
+Gheorghe Mihoc|Mihoc, Gheorghe
+George A. Milliken|Milliken, George A.
+Wendell Milliman|Milliman, Wendell
+Joshua Milne|Milne, Joshua
+Richard Monckton Milnes, 1st Baron Houghton|Milnes, Richard Monckton
+Wesley Clair Mitchell|Mitchell, Wesley Clair
+Warren Mitofsky|Mitofsky, Warren
+Jakob Mohn|Mohn, Jakob
+Abraham de Moivre|Moivre, Abraham de
+Edward C. Molina|Molina, Edward C.
+Henry Ludwell Moore|Moore, Henry Ludwell
+Pat Moran (statistician)|Moran, Pat
+Edward Rowe Mores|Mores, Edward Rowe
+William Morgan (scientist)|Morgan, William
+Carl Morris (statistician)|Morris, Carl
+Winifred J. Morrison|Morrison, Winifred J.
+Claus Moser, Baron Moser|Moser, Claus
+Frederick Mosteller|Mosteller, Frederick
+Frederic J. Mouat|Mouat, Frederic J.
+José Enrique Moyal|Moyal, José Enrique
+Susan Murphy|Murphy, Susan
+Vijayan Nair|Nair, Vijayan N.
+Guy Nason|Nason, Guy
+Charles P. Neill|Neill, Charles P.
+John Nelder|Nelder, John
+Cecil J. Nesbitt|Nesbitt, Cecil J.
+William Newmarch|Newmarch, William
+Jerzy Neyman|Neyman, Jerzy
+Florence Nightingale|Nightingale, Florence
+Partha Niyogi|Niyogi, Partha
+Gottfried E. Noether|Noether, Gottfried E.
+Carl O. Nordling|Nordling, Carl O.
+Frank W. Notestein|Notestein, Frank W.
+William Fielding Ogburn|Ogburn, William Fielding
+S. Jay Olshansky|Olshansky, S. Jay
+Octav Onicescu|Onicescu, Octav
+William Onslow, 4th Earl of Onslow|Onslow, William
+Mollie Orshansky|Orshansky, Mollie
+George Paine (registrar)|Paine, George
+John Pakington, 1st Baron Hampton|Pakington, John
+John Panaretos|Panaretos, John
+Emanuel Parzen|Parzen, Emanuel
+Raymond Pearl|Pearl, Raymond
+Egon Pearson|Pearson, Egon
+Karl Pearson|Pearson, Karl
+Charles Sanders Peirce|Peirce, Charles Sanders
+Basilio de Bragança Pereira|Pereira, Basilio de Bragança
+Julian Peto|Peto, Julian
+Richard Peto|Peto, Richard
+William Petty|Petty, William
+Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne|Petty-Fitzmaurice, Henry
+Jan Piekałkiewicz|Piekałkiewicz, Jan
+K. C. Sreedharan Pillai|Pillai, K. C. Sreedharan
+Vijayan K Pillai|Pillai, Vijayan K
+Brian Pink|Pink, Brian
+E. J. G. Pitman|Pitman, E. J. G.
+Robin Plackett|Plackett, Robin
+William Playfair|Playfair, William
+Elżbieta Pleszczyńska|Pleszczyńska, Elżbieta
+Stuart Pocock|Pocock, Stuart
+Henry O. Pollak|Pollak, Henry O.
+Nicholas Polson|Polson, Nicholas
+Samuel H. Preston|Preston, Samuel H.
+Richard Price|Price, Richard
+Maurice Priestley|Priestley, Maurice
+Maurice Princet|Princet, Maurice
+Reginald Punnett|Punnett, Reginald
+George Pólya|Pólya, George
+Adolphe Quetelet|Quetelet, Adolphe
+Adrian Raftery|Raftery, Adrian
+D. Raghavarao|Raghavarao, D.
+Howard Raiffa|Raiffa, Howard
+Stefan Ralescu|Ralescu, Stefan
+Calyampudi Radhakrishna Rao|Rao, C.R.
+Georg Rasch|Rasch, Georg
+Frank Redington|Redington, Frank
+Nancy Reid|Reid, Nancy
+Olav Reiersøl|Reiersøl, Olav
+E. C. Rhodes|Rhodes, E. C.
+Thomas Spring Rice, 1st Baron Monteagle of Brandon|Rice, Thomas Spring
+Sylvia Richardson|Richardson, Sylvia
+John Rickman|Rickman, John
+Brian D. Ripley|Ripley, Brian Daniel
+Herbert Robbins|Robbins, Herbert
+Gareth Roberts (statistician)|Roberts, Gareth O.
+Harry V. Roberts|Roberts, Harry V.
+Stuart A. Robertson|Robertson, Stuart A.
+Jean-Marie Robine|Robine, Jean-Marie
+James Robins|Robins, James
+Claude E. Robinson|Robinson, Claude E.
+Jeffrey S. Rosenthal|Rosenthal, Jeffrey S.
+Bimal Kumar Roy|Roy, Bimal Kumar
+S. N. Roy|Roy, S. N.
+Donald Rubin|Rubin, Donald
+I. M. Rubinow|Rubinow, I. M.
+Reuven Rubinstein|Rubinstein, Reuven
+Steven Ruggles|Ruggles, Steven
+John Russell, 1st Earl Russell|Russell, John
+Dudley Ryder, 2nd Earl of Harrowby|Ryder, Dudley
+Jeff Sagarin|Sagarin, Jeff
+Jahar Saha|Saha, Jahar
+Nicolas-François Dupré de Saint-Maur|Saint-Maur, Nicolas-François Dupré de
+David Salsburg|Salsburg, David
+Herbert Samuel, 1st Viscount Samuel|Samuel, Herbert
+William Sanders (statistician)|Sanders, William
+Leonard Jimmie Savage|Savage, Leonard Jimmie
+Shlomo Sawilowsky|Sawilowsky, Shlomo
+Henry Scheffé|Scheffé, Henry
+Robert Schlaifer|Schlaifer, Robert
+Henry Schultz|Schultz, Henry
+Arthur Schuster|Schuster, Arthur
+Tore Schweder|Schweder, Tore
+Elizabeth Scott (mathematician)|Scott, Elizabeth
+Hugh Hedley Scurfield|Scurfield, Hugh Hedley
+Shayle R. Searle|Searle, Shayle R.
+Paola Sebastiani|Sebastiani, Paola
+Pyotr Semyonov-Tyan-Shansky|Semyonov-Tyan-Shansky, Pyotr
+B. V. Shah|Shah, B. V.
+Lloyd Shapley|Shapley, Lloyd
+George Shaw-Lefevre, 1st Baron Eversley|Shaw-Lefevre, George
+Lawrence Shepp|Shepp, Lawrence
+William Fleetwood Sheppard|Sheppard, William Fleetwood
+Walter A. Shewhart|Shewhart, Walter A.
+S. S. Shrikhande|Shrikhande, S. S.
+Herbert Sichel|Sichel, Herbert
+Sidney Siegel|Siegel, Sidney
+Nate Silver|Silver, Nate
+Bernard Silverman|Silverman, Bernard
+François Simiand|Simiand, François
+Leslie Earl Simon|Simon, Leslie Earl
+Sir John Sinclair, 1st Baronet|Sinclair, Sir John
+Ibrahim Sirkeci|Sirkeci, Ibrahim
+Eugen Slutsky|Slutsky, Eugen
+Adrian Smith (academic)|Smith, A.F.M
+Cedric Smith (statistician)|Smith, Cedric
+Walter L. Smith|Smith, Walter L.
+George W. Snedecor|Snedecor, George W.
+Carl Snyder|Snyder, Carl
+Robert R. Sokal|Sokal, Robert R.
+Charles Spearman|Spearman, Charles
+Terry Speed|Speed, Terry
+Joseph J. Spengler|Spengler, Joseph J.
+David Spiegelhalter|Spiegelhalter, David
+J. N. Srivastava|Srivastava, J. N.
+Josiah Stamp, 1st Baron Stamp|Stamp, Josiah
+Julian C. Stanley Jr.|Stanley, Julian C. Jr.
+Edward Stanley, 15th Earl of Derby|Stanley, Edward
+J. Michael Steele|Steele, J. Michael
+Johan Frederik Steffensen|Steffensen, Johan Frederik
+Charles Stein (statistician)|Stein, Charles
+Matthew Stephens (statistician)|Stephens, Matthew
+Stephen Stigler|Stigler, Stephen
+Richard Stone|Stone, Richard
+Samuel A. Stouffer|Stouffer, Samuel A.
+Dietrich Stoyan|Stoyan, Dietrich
+Johann Peter Süssmilch|Süssmilch, Johann Peter
+William Henry Sykes|Sykes, William Henry
+James Joseph Sylvester|Sylvester, James Joseph
+Edward Szturm de Sztrem|Sztrem, Edward Szturm de
+Shyamaprasad Mukherjee
+India
+Genichi Taguchi|Taguchi, Genichi
+Michael Teitelbaum|Teitelbaum, Michael
+Lester G. Telser|Telser, Lester G.
+Thorvald N. Thiele|Thiele, Thorvald N.
+Robert L. Thorndike|Thorndike, Robert L.
+John Wingate Thornton|Thornton, John Wingate
+Willard Thorp|Thorp, Willard
+Louis Leon Thurstone|Thurstone, Louis Leon
+Robert Tibshirani|Tibshirani, Robert
+Leonard Henry Caleb Tippett|Tippett, Leonard Henry Caleb
+James Tobin|Tobin, James
+Emmanuel Todd|Todd, Emmanuel
+Howell Tong|Tong, Howell
+Dennis Trewin|Trewin, Dennis
+Stanisław Trybuła|Trybuła, Stanisław
+Edward Tufte|Tufte, Edward
+John Tukey|Tukey, John
+Jessica Utts|Utts, Jessica
+Stanislaus S. Uyanto|Uyanto, Stanislaus S.
+Vladimir Vapnik|Vapnik, Vladimir
+James Vaupel|Vaupel, James
+Giovanni Villani|Villani, Giovanni
+Jan Visman|Visman, Jan
+Grace Wahba|Wahba, Grace
+Abraham Wald|Wald, Abraham
+Francis Amasa Walker|Walker, Francis Amasa
+Gilbert Walker|Walker, Gilbert
+Chris Wallace (computer scientist)|Wallace, Chris
+W. Allen Wallis|Wallis, W. Allen
+Derek Wanless|Wanless, Derek
+Geoffrey Watson|Watson, Geoffrey
+Robert Wedderburn (statistician)|Wedderburn, Robert
+Edward Wegman|Wegman, Edward
+Waloddi Weibull|Weibull, Waloddi
+Arnold Weinstock|Weinstock, Arnold
+Walter Frank Raphael Weldon|Weldon, Walter Frank Raphael
+Thomas A. Welton|Welton, Thomas A.
+Charles Wentworth-Fitzwilliam, 5th Earl Fitzwilliam|Wentworth-Fitzwilliam, Charles
+Harald Ludvig Westergaard|Westergaard, Harald Ludvig
+Donald J. Wheeler|Wheeler, Donald J.
+Peter Whittle|Whittle, Peter
+Frank Wilcoxon|Wilcoxon, Frank
+Martin Wilk|Wilk, Martin
+Leland Wilkinson|Wilkinson, Leland
+Samuel S. Wilks|Wilks, Samuel S.
+Walter Francis Willcox|Willcox, Walter Francis
+Edwin Bidwell Wilson|Wilson, Edwin Bidwell
+Harold Wilson|Wilson, Harold
+John Wishart (statistician)|Wishart, John
+Herman Wold|Wold, Herman
+Jacob Wolfowitz|Wolfowitz, Jacob
+George Henry Wood (statistician)|Wood, George Henry
+Wesley S. B. Woolhouse|Woolhouse, Wesley S. B.
+Holbrook Working|Working, Holbrook
+Carroll D. Wright|Wright, Carroll D.
+Elizur Wright|Wright, Elizur
+Sewall Wright|Wright, Sewall
+E. A. Wrigley|Wrigley, E. A.
+C.F. Jeff Wu|Wu, Jeff C. F.
+Frank Yates|Yates, Frank
+Allyn Abbott Young|Young, Allyn Abbott
+Arthur Young (writer)|Young, Arthur
+Hilton Young, 1st Baron Kennet|Young, Hilton
+Udny Yule|Yule, G. Udny
+Arif Zaman|Zaman, Arif
+Victor Zarnowitz|Zarnowitz, Victor
+Arnold Zellner|Zellner, Arnold
+Zhang Zhaohuan|Zhaohuan, Zhang
+George Kingsley Zipf|Zipf, George Kingsley
+List of actuaries
+List of mathematical probabilists
+List of mathematicians
+Founders of statistics
+American Statistical Association
+University of York
+University of Southampton
+Category:Statisticians| 
+Category:Statistics-related lists|Statisticians
+Category:Lists of scientists|Statisticians
+Category:Lists of mathematicians|Statisticians

@@ -184,8 +184,9 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Network-Analysis">Network Analysis<a class="anchor-link" href="#Network-Analysis">&#182;</a></h2><p>Given that inspiration is unidirectional in its nature, we have decided to create our network as a directed graph. Each mathematician is a node in the graph and each edge between the nodes constitutes a link from one node to another.</p>
-<h3 id="Basic-info-on-our-Graph">Basic info on our Graph<a class="anchor-link" href="#Basic-info-on-our-Graph">&#182;</a></h3><p>After downloading and cleaning our data we find that there are 1154 unique node. And that there are 1452 unique edges between the node. We also find that that the mean degree for each node is 2.52 while the median degree is 1.
+<h2 id="Network-Analysis">Network Analysis<a class="anchor-link" href="#Network-Analysis">&#182;</a></h2><p>Given that inspiration is unidirectional in its nature, we have decided to create our network as a directed graph, that is a graph where node A can have a connection to node B, without node B having a connection to node A, like one-direction streets. Later in the project we will also use an undirected graph, that is a graph where, if node A has a connection to node B, then node B has a connection to node A, to continue with the analogy, this would be a bi-directional road.
+Each mathematician is a node in the graph and each edge between the nodes constitutes a link from one node to another.</p>
+<h3 id="Basic-info-on-our-Graph">Basic info on our Graph<a class="anchor-link" href="#Basic-info-on-our-Graph">&#182;</a></h3><p>After downloading and cleaning our data we find that there are 1154 unique node. And that there are 1452 unique edges between the nodes. We also find that that the mean degree (by degree we mean the number of edges that go from or to the node) for each node is 2.52 while the median degree is 1.
 Further it becomes clear that the node with the greatest degree has 66 edges while the most common degree is 0 which is shared by 496 nodes.</p>
 <h3 id="Mathematicians-(by-in-degree-and-out-degree)">Mathematicians (by in degree and out degree)<a class="anchor-link" href="#Mathematicians-(by-in-degree-and-out-degree)">&#182;</a></h3>
 </div>
@@ -196,7 +197,8 @@ Further it becomes clear that the node with the greatest degree has 66 edges whi
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Top-10-by-in-and-out-degrees">Top 10 by in and out degrees<a class="anchor-link" href="#Top-10-by-in-and-out-degrees">&#182;</a></h3><p><img src="images/top_in_out.png" width='50%'></p>
+<h3 id="Top-10-by-in-and-out-degrees">Top 10 by in and out degrees<a class="anchor-link" href="#Top-10-by-in-and-out-degrees">&#182;</a></h3><p>In degree is the number of edges that come into a node while out degree is the number of edges that go out from a node.
+<img src="data/images/top_in_out.png" width='50%'></p>
 
 </div>
 </div>
@@ -206,11 +208,9 @@ Further it becomes clear that the node with the greatest degree has 66 edges whi
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Distribution-of-in-and-out-degree">Distribution of in and out degree<a class="anchor-link" href="#Distribution-of-in-and-out-degree">&#182;</a></h3><h4 id="Linear-bar-plot">Linear bar plot<a class="anchor-link" href="#Linear-bar-plot">&#182;</a></h4><p><img src="images/in_out_log_linear.png" width='70%'></p>
-<h4 id="Log-log-scale-bar-plot">Log-log scale bar plot<a class="anchor-link" href="#Log-log-scale-bar-plot">&#182;</a></h4><p><img src="images/in_out_log_log.png"></p>
-<h4 id="Log-loc-scale-scatter-plot">Log-log scale scatter plot<a class="anchor-link" href="#Log-loc-scale-scatter-plot">&#182;</a></h4><p><img src="images/In_v_out_degree.png" width='70%'></p>
+<h3 id="Distribution-of-in-and-out-degree">Distribution of in and out degree<a class="anchor-link" href="#Distribution-of-in-and-out-degree">&#182;</a></h3><h4 id="Linear-bar-plot">Linear bar plot<a class="anchor-link" href="#Linear-bar-plot">&#182;</a></h4><p><img src="data/images/in_out_log_linear.png" width='70%'></p>
+<h4 id="Log-log-scale-bar-plot">Log-log scale bar plot<a class="anchor-link" href="#Log-log-scale-bar-plot">&#182;</a></h4><p><img src="data/images/in_out_log_log.png"></p>
 <h3 id="Notes-on-the-graphs">Notes on the graphs<a class="anchor-link" href="#Notes-on-the-graphs">&#182;</a></h3><p>As expected we see a power law distribution of the degree of nodes with most nodes having a few or zero degrees and an increasingly small number of nodes that have a high degree.</p>
-<p>In the log-log scatter plot we investigate whether there is a correlation between in and out degree but find little basis for such a claim. It is however apparent that, what we saw in our list of top ten mathematicians by degree is also shown here, with some nodes having both a high number of edges going in as well as edges going out.</p>
 
 </div>
 </div>
@@ -222,7 +222,8 @@ Further it becomes clear that the node with the greatest degree has 66 edges whi
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Communities">Communities<a class="anchor-link" href="#Communities">&#182;</a></h2><p>We sugges that each branch of mathematics is a community on to itself, where each member of the community is a mathematician whose wikipedia page suggests that they work within that field.
 In this section we will see if that is in fact the case. As we are now considering connectedness, rather than direction of connection, we transform our graph to an undirected graph.</p>
-<h4 id="Centrality">Centrality<a class="anchor-link" href="#Centrality">&#182;</a></h4><p>First we look at betweennes centrality scores to determine whether, as we suspect, there are nodes that are better connected than others that act as hubs for the entire network.</p>
+<h4 id="Betweenness-Centrality">Betweenness Centrality<a class="anchor-link" href="#Betweenness-Centrality">&#182;</a></h4><p>Betweenness centrality is a way to measure whether some nodes are integral to the connection of the entire graph.
+First we look at betweennes centrality scores to determine whether, as we suspect, there are nodes that are better connected than others that act as hubs for the entire network.</p>
 <table>
 <thead><tr>
 <th>Mathematician</th>
@@ -232,28 +233,28 @@ In this section we will see if that is in fact the case. As we are now consideri
 <tbody>
 <tr>
 <td>Bertrand Russell</td>
-<td>0.11804835481107404</td>
+<td>0.12</td>
 </tr>
 <tr>
 <td>Ronald Fisher</td>
-<td>0.10547526865756197</td>
+<td>0.11</td>
 </tr>
 <tr>
 <td>Milton Friedman</td>
-<td>0.0651579316560905</td>
+<td>0.07</td>
 </tr>
 <tr>
 <td>John von Neumann</td>
-<td>0.06029515476620272</td>
+<td>0.06</td>
 </tr>
 <tr>
 <td>John Maynard Keynes</td>
-<td>0.052742137383594734</td>
+<td>0.05</td>
 </tr>
 </tbody>
 </table>
 <p>Considering our table we find that there are in fact some nodes that are better connected and they are likely to act as hubs for the entire network.</p>
-<h4 id="Eigenvector-Centrality">Eigenvector Centrality<a class="anchor-link" href="#Eigenvector-Centrality">&#182;</a></h4><p>Eigen vector centrality is a different method to calculate the centrality for the graph. We simply do this to compare with the results achieved above.</p>
+<h4 id="Eigenvector-Centrality">Eigenvector Centrality<a class="anchor-link" href="#Eigenvector-Centrality">&#182;</a></h4><p>Eigen vector centrality is a different method to calculate the importance of a node for the graph, that is measure to see which if any nodes are instrumental for creating a connected graph. We simply do this to compare with the results achieved above.</p>
 <table>
 <thead><tr>
 <th>Mathematician (IN)</th>
@@ -265,33 +266,33 @@ In this section we will see if that is in fact the case. As we are now consideri
 <tbody>
 <tr>
 <td>Bertrand Russell</td>
-<td>0.4164868307116189</td>
+<td>0.42</td>
 <td>Bertrand Russell</td>
-<td>0.32079269724107234</td>
+<td>0.32</td>
 </tr>
 <tr>
 <td>Gottlob Frege</td>
-<td>0.24905868740465903</td>
+<td>0.25</td>
 <td>Charles Sanders Peirce</td>
-<td>0.29923786993899865</td>
+<td>0.23</td>
 </tr>
 <tr>
 <td>Alfred Tarski</td>
-<td>0.24345915341198865</td>
+<td>0.24</td>
 <td>Georg Cantor</td>
-<td>0.2165598331026345</td>
+<td>0.22</td>
 </tr>
 <tr>
 <td>Ludwig Wittgenstein</td>
-<td>0.2431995071317573</td>
+<td>0.24</td>
 <td>Jaakko Hintikka</td>
-<td>0.2097900546429442</td>
+<td>0.21</td>
 </tr>
 <tr>
 <td>John von Neumann</td>
-<td>0.20821566137778677</td>
+<td>0.21</td>
 <td>Gottlob Frege</td>
-<td>0.19023617292174907</td>
+<td>0.19</td>
 </tr>
 </tbody>
 </table>
@@ -377,7 +378,7 @@ In this section we will see if that is in fact the case. As we are now consideri
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h4 id="Branches-and-Communities">Branches and Communities<a class="anchor-link" href="#Branches-and-Communities">&#182;</a></h4><p>We find the giant connected component of the undirected graph and find the best partition of it. By finding the partitions we find the number of communities and whether the communites are optimally partitioned. The communites are optimally partitioned if their modularity is greater than 0.41.</p>
+<h4 id="Branches-and-Communities">Branches and Communities<a class="anchor-link" href="#Branches-and-Communities">&#182;</a></h4><p>We find the giant connected component (GCC), a subgraph in the graph that has a constant size, of the undirected graph and find the best partition of it. By finding the partitions we find the number of communities and whether the communites are optimally partitioned. The communites are optimally partitioned if their modularity is greater than 0.41.</p>
 <table>
 <thead><tr>
 <th>Louvain-Modularity (over GCC)</th>
@@ -560,8 +561,9 @@ As seen in the able below the mathematicians are spread over these partitions. O
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Linguistic-Analysis">Linguistic Analysis<a class="anchor-link" href="#Linguistic-Analysis">&#182;</a></h2><p>In this part of the project we are more concerned with how the wikipedia articles are built up linguistically.</p>
-<h4 id="Basic-statistics">Basic statistics<a class="anchor-link" href="#Basic-statistics">&#182;</a></h4><p>In all of the documents combined we find that we have 912.737 tokens before cleaning and 491.603 tokens after cleaning the files over 751 philosophers.</p>
-<h4 id="Term-Frequencies-and-TF-IDF">Term Frequencies and TF-IDF<a class="anchor-link" href="#Term-Frequencies-and-TF-IDF">&#182;</a></h4><p>If we for instance consider the top 5 words in each branch (after stemming and lemmatisation) we find that many of the words are shared between branches.</p>
+<h4 id="Basic-statistics">Basic statistics<a class="anchor-link" href="#Basic-statistics">&#182;</a></h4><p>In all of the documents combined we find that we have 912.737 tokens before cleaning and 491.603 tokens after cleaning the files over 751 mathematicians.</p>
+<h4 id="Term-Frequencies-and-TF-IDF">Term Frequencies and TF-IDF<a class="anchor-link" href="#Term-Frequencies-and-TF-IDF">&#182;</a></h4><p>By term frequency we mean how many times a word occurs in a document and by IDF we mean the inverse document frequency, that is the log of number of documents divided by the number of documents in which the term occurs. TF-IDF is simply the product of those two numbers.</p>
+<p>If we for instance consider the top 5 words in each branch (after stemming and lemmatisation) we find that many of the words are shared between branches.</p>
 <table>
 <thead><tr>
 <th>Branch</th>
@@ -659,7 +661,8 @@ As seen in the able below the mathematicians are spread over these partitions. O
 </tbody>
 </table>
 <p>And now we consider after calculating the TF-IDF:
-<img src="System/data/images/top5_tfidf.png" width='70%'></p>
+<img src="data/images/top5_tfidf.png" width='70%'></p>
+<p>As you can see, some of the words look rather strange, being that they are not completed words. This is because in the process of stemming the stemmers may mistake which word is actually the root and thus we get results like "univers".</p>
 
 </div>
 </div>
@@ -670,17 +673,17 @@ As seen in the able below the mathematicians are spread over these partitions. O
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h4 id="Word-Clouds">Word Clouds<a class="anchor-link" href="#Word-Clouds">&#182;</a></h4><p>Actuaries
-<img src="images/actuaries.png" width='70%'></p>
+<img src="data/images/actuaries.png" width='70%'></p>
 <p>Game Theorists
-<img src="images/game_theorists.png" width='70%'></p>
+<img src="data/images/game_theorists.png" width='70%'></p>
 <p>Geometers
-<img src="images/geometers.png" width='70%'></p>
+<img src="data/images/geometers.png" width='70%'></p>
 <p>Logicians
-<img src="images/logicians.png" width='70%'></p>
+<img src="data/images/logicians.png" width='70%'></p>
 <p>Mathematical Probabilists
-<img src="images/probabilists.png" width='70%'></p>
+<img src="data/images/probabilists.png" width='70%'></p>
 <p>Statisticians
-<img src="images/statisticians.png" width='70%'></p>
+<img src="data/images/statisticians.png" width='70%'></p>
 
 </div>
 </div>
@@ -690,9 +693,9 @@ As seen in the able below the mathematicians are spread over these partitions. O
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h4 id="Token-counts-by-article-and-TF-IDF-values-plots">Token counts by article and TF-IDF values plots<a class="anchor-link" href="#Token-counts-by-article-and-TF-IDF-values-plots">&#182;</a></h4><p><img src="images/tokenCountPlot.png" width='70%'>
+<h4 id="Token-counts-by-article-and-TF-IDF-values-plots">Token counts by article and TF-IDF values plots<a class="anchor-link" href="#Token-counts-by-article-and-TF-IDF-values-plots">&#182;</a></h4><p><img src="data/images/tokenCountPlot.png" width='70%'>
 We see in the plot above that the distributions of tokens for each article varies a lot.
-<img src="images/tfidfRankPlot.png" width='70%'>
+<img src="data/images/tfidfRankPlot.png" width='70%'>
 And this is just a plot of TFIDF values.</p>
 
 </div>
@@ -703,10 +706,16 @@ And this is just a plot of TFIDF values.</p>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Classification">Classification<a class="anchor-link" href="#Classification">&#182;</a></h2><p>And no, finally we want to see if predict which branch a mathematician belongs to based on the text on their wikipedia page.</p>
-<p>We use three different classifiers: A Support Vector Machine (Gaussian Kernel), A Multinomial Naive Bayes Classifier and a Logistic Regression Classifier. In the plot below we can see how the classifiers performed over 20 iterations.
-<img src="images/scorePlot.png" width='70%'></p>
-<p>As we see only Logistic Regression manages to outperform the mean of the accuracies (0.63) and the mean of the precision (0.61) consistently. While SVM barely manages to outperform the man at any point.</p>
+<h2 id="Classification">Classification<a class="anchor-link" href="#Classification">&#182;</a></h2><p>And finally we want to see if predict which branch a mathematician belongs to based on the text on their wikipedia page.</p>
+<p>We use three different classifiers: A Support Vector Machine (with a Gaussian Kernel), A Multinomial Naive Bayes Classifier and a Logistic Regression Classifier. In the plot below we can see how the classifiers performed over 20 iterations.</p>
+<p>To measure we use accuracy and precision. Accuracy is the fraction of correct classification over the sum of all correct and incorrect classifications, thus one is left with the fraction correct classifications.
+Precision is the fraction of classifications that were correct over the number of classifications that were correct and the number it thought were correct. 
+To clarify consider three mathematicians. Two of these are game theorists while the third is a geometer. Our classifier classifies all three as game theorists. We then have precision which is 2 / 2 + 1.</p>
+<p>In the figure below you can see the accuracy scores for the different classifiers.
+<img src="data/images/scorePlot.png" width='70%'></p>
+<p>In the figure below you can see the precision scores for the different classifiers.
+<img src="data/images/precScorePlot.png" width='70%'></p>
+<p>As we see only Logistic Regression manages to outperform the mean of the accuracies (0.63) and the mean of the precision (0.61) consistently. While SVM barely manages to outperform the mean at any point.</p>
 <table>
 <thead><tr>
 <th></th>
@@ -745,6 +754,7 @@ And this is just a plot of TFIDF values.</p>
 </div>
 </div>
 </div>
+    </div>
   </div>
 </body>
 </html>
